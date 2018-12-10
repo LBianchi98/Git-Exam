@@ -4,9 +4,10 @@ using namespace std;
 
 int main()
 {
-	for (int i = 0; i < 10; i++)
+	for (int n = 0; n < 10; i++)
 	{
-		cout << i + 1 << endl;
+			
+		cout << n+1 << endl;
 	}
 	system("PAUSE");
 }
